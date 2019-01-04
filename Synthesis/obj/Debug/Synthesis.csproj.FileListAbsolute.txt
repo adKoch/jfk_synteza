@@ -1,0 +1,9 @@
+C:\Users\5redc\Desktop\synteza\Synthesis\bin\Debug\Class.cs
+C:\Users\5redc\Desktop\synteza\Synthesis\bin\Debug\Synthesis.exe.config
+C:\Users\5redc\Desktop\synteza\Synthesis\bin\Debug\Synthesis.exe
+C:\Users\5redc\Desktop\synteza\Synthesis\bin\Debug\Synthesis.pdb
+C:\Users\5redc\Desktop\synteza\Synthesis\obj\Debug\Synthesis.csprojAssemblyReference.cache
+C:\Users\5redc\Desktop\synteza\Synthesis\obj\Debug\Synthesis.exe.config
+C:\Users\5redc\Desktop\synteza\Synthesis\obj\Debug\Synthesis.csproj.CoreCompileInputs.cache
+C:\Users\5redc\Desktop\synteza\Synthesis\obj\Debug\Synthesis.exe
+C:\Users\5redc\Desktop\synteza\Synthesis\obj\Debug\Synthesis.pdb
